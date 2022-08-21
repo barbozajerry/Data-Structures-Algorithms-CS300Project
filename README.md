@@ -1,9 +1,9 @@
 # Data-Structures-Algorithms-CS300Project
 Assignment for CS300 at SNHU in Data Structures and Algorithms 
 
-<img src="images/image1.png" width="50%"> 
-<img src="images/image2.png" width="50%">
-<img src="images/image3.png" width="50%">
+<img src="images/image1.png" width="40%"> 
+<img src="images/image2.png" width="40%">
+<img src="images/image3.png" width="40%">
 <br><br><br> 
 <h3> What was the problem you were solving in the projects for this course? </h3>
 <br> 
