@@ -1,4 +1,4 @@
-# Data-Structures-Algorithms-CS300Project
+# Data Structures & Algorithms -CS300 Final Project
 
 <img src="images/image1.png" width="40%">
 <img src="images/image2.png" width="40%">
